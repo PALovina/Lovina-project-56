@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: coral;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+div {
+    margin-top: 15px;
+}
+
+
+.spanimages {
+    display: flex;
+    justify-content: center;
+}
+
+.images {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
